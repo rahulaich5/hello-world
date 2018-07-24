@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "AAAA"
+wwww#!/bin/bash
+eeeeecho "AAAA"
