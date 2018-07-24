@@ -1,2 +1,2 @@
-xxx1111#!/bin/bash
-dddd
+#!/bin/bash
+echo "AAAA"
